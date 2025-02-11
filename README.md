@@ -1,9 +1,13 @@
 # Concurrent rendering in React
 
 With Concurrent Rendering, React can: 
+
 ✅ Pause and resume rendering
+
 ✅ Prioritize urgent updates (e.g., user interactions over slow data fetching)
+
 ✅ Improve performance on slow devices and networks
+
 
 With Concurrent Rendering, React can split work into smaller chunks and pause if needed.
 
